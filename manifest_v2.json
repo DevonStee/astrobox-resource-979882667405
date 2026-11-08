@@ -2,7 +2,7 @@
   "item": {
     "id": "979882667405",
     "restype": "watchface",
-    "name": "PILL BOTTLE",
+    "name": "药瓶PILL BOTTLE",
     "description": "PILL BOTTLE_琥珀药瓶_药片刻字\n时间刻在药片上, 只靠阴影读出来, 拟物向的小玩意, 长按能换颜色.\n目前支持小米手环 10 / 11\n由于 AstroBox 平台限制, 无法上传动态照片, 想看实际效果以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好\n后续会通过与astrobox内嵌的爱发电平台更新付费表盘的资源",
     "preview": [
       "media/03-预览-三种主题.png",
